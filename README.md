@@ -1,2 +1,2 @@
-# validate-South-africa-idintification
+# validate-SA-id
 validate-sa-id
